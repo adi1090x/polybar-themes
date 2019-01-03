@@ -20,19 +20,17 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 - Command output tailing
 - User-defined menu tree
 - Inter-process messaging
-- And [more](https://github.com/jaagr/polybar)...
+- And [more](https://github.com/jaagr/polybar)... <br />
 
 
 ## // Polybar-1
 
-***Appearance Overview***
+A collection of themes with different material colors, total 19 colors with 2 variants. <br />
 
-- Gtk Theme : [Blues](https://github.com/adi1090x/dots/tree/master/blues/.themes) <br />
-- Icon Pack : [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) <br />
-- Bars : [Polybar](https://github.com/jaagr/polybar) <br />
-- Fonts : [Iosevka](https://github.com/be5invis/Iosevka) & [Icomoon](https://icomoon.io/icons-icomoon.html) <br />
-- Wallpaper : [blues](https://github.com/adi1090x/dots/tree/master/blues/wallpaper.jpg) <br />
+***Overview***
 
+- Icon Fonts : [Material Icons](https://github.com/google/material-design-icons) <br />
+- Text Fonts : [Fantasque Sans](https://github.com/belluzj/fantasque-sans) <br />
 
 **Dark Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark.png) <br />
@@ -40,3 +38,7 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 **Light Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light.png) <br />
 
+## FYI
+
+- you may need to edit these config files, incase you want to change the position, size etc.
+- More themes will be added by time.
