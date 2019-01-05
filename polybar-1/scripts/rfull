@@ -1,0 +1,5 @@
+#!/bin/bash
+
+## Created By Aditya Shakya
+
+rofi -show run -fullscreen True -lines 5 -line-margin 6 -padding 300 -bw 0 -font "Iosevka 12"

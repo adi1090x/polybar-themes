@@ -29,6 +29,7 @@ A collection of themes with different material colors, total 19 colors with 2 va
 
 ***Overview***
 
+- WM : Openbox
 - Icon Fonts : [Material Icons](https://github.com/google/material-design-icons) <br />
 - Text Fonts : [Fantasque Sans](https://github.com/belluzj/fantasque-sans) <br />
 
@@ -38,7 +39,28 @@ A collection of themes with different material colors, total 19 colors with 2 va
 **Light Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light.png) <br />
 
+
+## // Polybar-2
+
+Another collection of themes with different material color shades, total 19 colors with 3 variants, (2 alt). <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Iosevka Nerd Font]() <br />
+- Text Fonts : [Fantasque Sans](https://github.com/belluzj/fantasque-sans) <br />
+
+**Dark Variant**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_2.png) <br />
+
+**Light Variant**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_2.png) <br />
+
+**Alt Light Variant**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_2_alt.png) <br />
+
+
 ## FYI
 
 - you may need to edit these config files, incase you want to change the position, size etc.
+- Scripts and fonts also included in this repo.
 - More themes will be added by time.

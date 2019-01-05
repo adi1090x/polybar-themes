@@ -1,0 +1,292 @@
+;==========================================================
+;
+;
+;   ██████╗  ██████╗ ██╗  ██╗   ██╗██████╗  █████╗ ██████╗
+;   ██╔══██╗██╔═══██╗██║  ╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
+;   ██████╔╝██║   ██║██║   ╚████╔╝ ██████╔╝███████║██████╔╝
+;   ██╔═══╝ ██║   ██║██║    ╚██╔╝  ██╔══██╗██╔══██║██╔══██╗
+;   ██║     ╚██████╔╝███████╗██║   ██████╔╝██║  ██║██║  ██║
+;   ╚═╝      ╚═════╝ ╚══════╝╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+;
+;
+;   Created By Aditya Shakya.
+;
+;==========================================================
+
+[color]
+
+trans = #00000000
+white = #FFFFFF
+black = #000000
+
+bg = #FFFFFF
+fg = #1F1F1F
+fg-alt = #303030
+
+acolor = #1F1F1F
+curgent = #EF5350
+coccupied = #42A5F5
+
+shade1 = #1B5E20
+shade2 = #2E7D32
+shade3 = #388E3C
+shade4 = #43A047
+shade5 = #4CAF50
+shade6 = #66BB6A
+shade7 = #81C784
+shade8 = #A5D6A7
+ashade8 = #2C2C2C
+
+## Material Colors
+
+red = #e53935
+pink = #d81b60
+purple = #8e24aa
+deep-purple = #5e35b1
+indigo = #3949ab
+blue = #1e88e5
+light-blue = #039be5
+cyan = #00acc1
+teal = #00897b
+green = #43a047
+light-green = #7cb342
+lime = #c0ca33
+yellow = #fdd835
+amber = #ffb300
+orange = #fb8c00
+deep-orange = #f4511e
+brown = #6d4c41
+grey = #757575
+blue-gray = #546e7a
+
+;==========================================================
+
+[bar/main]
+width = 96%
+height = 32
+offset-x = 2%
+offset-y = 2%
+bottom = false
+fixed-center = false
+line-size = 2
+
+background = ${color.bg}
+foreground = ${color.fg}
+
+;==========================================================
+
+font-0 = "Fantasque Sans Mono:pixelsize=10;3"
+font-1 = "Iosevka Nerd Font:pixelsize=13;3"
+
+;==========================================================
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+;== Module Location ========================================================
+
+modules-left = arch workspaces google github reddit facebook youtube
+modules-right = mpd pkg volume battery network date powermenu
+ 
+;== Modules ========================================================
+
+[module/arch]
+type = custom/text
+content = 
+;alt icons = 
+content-padding = 2
+content-background = ${color.shade1}
+content-foreground = ${color.fg}
+click-left = rmenu_1
+click-right = rmenu_wi_1
+
+[module/workspaces]
+type = internal/xworkspaces
+pin-workspaces = false
+enable-click = true
+enable-scroll = true
+format-padding = 1
+
+;icon-0 = 1;❶
+;icon-1 = 2;❷
+;icon-2 = 3;❸
+;icon-3 = 4;❹
+;icon-4 = 5;❺
+;icon-5 = 6;❻
+;icon-6 = 7;❼
+;icon-7 = 8;❽
+;icon-8 = 9;❾
+;icon-9 = 10;❿
+
+icon-default = 
+
+format = <label-state>
+format-background = ${color.shade2}
+label-active = 
+label-occupied = 
+label-urgent = 
+label-empty = 
+
+label-empty-padding = 1
+label-active-padding = 1
+label-urgent-padding = 1
+label-occupied-padding = 1
+
+label-empty-foreground = ${color.fg}
+label-active-foreground = ${color.acolor}
+label-urgent-foreground = ${color.curgent}
+label-occupied-foreground = ${color.coccupied}
+
+[module/google]
+type = custom/text
+content = 
+content-padding = 2
+content-foreground = ${color.fg-alt}
+click-left = xdg-open https://www.google.com/ 
+
+[module/github]
+type = custom/text
+content = 
+content-padding = 2
+content-foreground = ${color.fg-alt}
+click-left = xdg-open https://www.github.com/ 
+
+[module/reddit]
+type = custom/text
+content = 
+content-padding = 2
+content-foreground = ${color.fg-alt}
+click-left = xdg-open https://www.reddit.com/
+
+[module/facebook]
+type = custom/text
+content = 
+content-padding = 2
+content-foreground = ${color.fg-alt}
+click-left = xdg-open https://www.facebook.com/
+
+[module/youtube]
+type = custom/text
+content = 
+content-padding = 2
+content-foreground = ${color.fg-alt}
+click-left = xdg-open https://www.youtube.com/
+
+;==========================================================
+
+[module/mpd]
+type = internal/mpd
+format-online = <toggle> <label-song> 
+;format-online =  <label-song> 
+;alt icons =   
+format-online-foreground = ${color.ashade8}
+format-online-background = ${color.shade8}
+format-online-padding = 2
+
+icon-play = 喇
+icon-pause = 
+
+label-song-maxlen = 25
+label-song-ellipsis = true
+
+;==========================================================
+
+[module/pkg]
+type = custom/script
+exec = updates.sh
+format-background = ${color.shade7}
+format-padding = 2
+tail = true
+
+[module/battery]
+type = internal/battery
+full-at = 99
+time-format = %H:%M
+battery = BAT1
+adapter = AC
+format-charging = <animation-charging> <label-charging>
+format-charging-background = ${color.shade5}
+format-charging-padding = 2
+label-charging = %percentage%%
+format-discharging = <ramp-capacity> <label-discharging>
+format-discharging-background = ${color.shade5}
+format-discharging-padding = 2
+label-discharging = %percentage%%
+format-full = <label-full>
+
+format-full-prefix = " "
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-5 = 
+ramp-capacity-6 = 
+ramp-capacity-7 = 
+ramp-capacity-8 = 
+ramp-capacity-9 = 
+
+ramp-capacity-0-foreground = ${color.red}
+ramp-capacity-1-foreground = ${color.red}
+ramp-capacity-foreground   = ${color.fg}
+bar-capacity-width = 10
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-5 = 
+animation-charging-6 = 
+
+animation-charging-framerate = 750
+
+[module/volume]
+type = internal/alsa
+format-volume = <ramp-volume> <label-volume>
+format-volume-padding = 2
+format-volume-background = ${color.shade6}
+label-volume = %percentage%%
+label-muted = "婢"
+label-muted-background = ${color.shade6}
+label-muted-padding = 2
+
+ramp-volume-0 = 奄
+ramp-volume-1 = 奄
+ramp-volume-2 = 奔
+ramp-volume-3 = 奔
+ramp-volume-4 = 墳
+ramp-volume-5 = 墳
+ramp-volume-6 = 墳
+
+[module/network]
+type = custom/script
+exec = check-network
+format-background = ${color.shade4}
+format-padding = 2
+click-left = networkmanager_dmenu &
+click-right = networkmanager_dmenu &
+tail = true
+
+[module/date]
+type = internal/date
+interval = 30
+label =  %time%
+label-padding = 2
+label-background = ${color.shade3}
+time =  %I:%M %p
+time-alt =  %Y-%m-%d
+
+[module/powermenu]
+type = custom/text
+content = 襤
+content-padding = 2
+content-background = ${color.shade2}
+content-foreground = ${color.fg}
+click-left = pmenu_1
+click-right = pmenu_1
+
+;== EOF ========================================================
