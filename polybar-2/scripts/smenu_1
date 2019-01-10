@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## Created By Haider Ali Punjabi (https://github.com/haideralipunjabi)
+
+MENU="$(rofi -dmenu -i -p 'Search' -location 1 -yoffset 60 -xoffset 100 -width 15 -hide-scrollbar -line-padding 4 -padding 20 -lines 0 -font "Fantasque Sans Mono 10" <<< "")"
+if ["$MENU" != ""]
+    then
+        xdg-open https://www.google.com/search?q=$MENU
