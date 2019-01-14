@@ -145,35 +145,35 @@ type = custom/text
 content = 
 content-padding = 2
 content-foreground = ${color.fg-alt}
-click-left = xdg-open https://www.google.com/ 
+click-left = xdg-open https://www.google.com/ & 
 
 [module/github]
 type = custom/text
 content = 
 content-padding = 2
 content-foreground = ${color.fg-alt}
-click-left = xdg-open https://www.github.com/ 
+click-left = xdg-open https://www.github.com/ & 
 
 [module/reddit]
 type = custom/text
 content = 
 content-padding = 2
 content-foreground = ${color.fg-alt}
-click-left = xdg-open https://www.reddit.com/
+click-left = xdg-open https://www.reddit.com/ &
 
 [module/facebook]
 type = custom/text
 content = 
 content-padding = 2
 content-foreground = ${color.fg-alt}
-click-left = xdg-open https://www.facebook.com/
+click-left = xdg-open https://www.facebook.com/ &
 
 [module/youtube]
 type = custom/text
 content = 
 content-padding = 2
 content-foreground = ${color.fg-alt}
-click-left = xdg-open https://www.youtube.com/
+click-left = xdg-open https://www.youtube.com/ &
 
 ;==========================================================
 
