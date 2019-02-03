@@ -23,7 +23,7 @@ bg = #1F1F1F
 fg = #FFFFFF
 fg-alt = #A9ABB0
 
-acolor = #FFFFFF
+color = #FFFFFF
 curgent = #EF5350
 coccupied = #42A5F5
 
@@ -35,7 +35,7 @@ shade5 = #607D8B
 shade6 = #78909C
 shade7 = #90A4AE
 shade8 = #B0BEC5
-ashade8 = #2C2C2C
+shade8 = #2C2C2C
 
 ## Material Colors
 
