@@ -59,6 +59,34 @@ Another collection of themes with different material color shades, total 19 colo
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_2_alt.png) <br />
 
 
+## // Polybar-3
+
+This is a little bit different config. <br />
+This config setup contains 8 different files - <br />
+
+> launch.sh					// start polybar <br /> 
+> colors.ini				// configure colors <br />
+> config-top.ini			// top bar config <br />
+> config-bottom.ini			// bottom bar config <br />
+> modules.ini				// all standard modules <br />
+> user_modules.ini			// all user created modules <br />
+> bars.ini					// all bar modules config <br />
+> test-bars.ini				// test bar for all bar modules <br />
+> A Scripts DIR				// contains scripts used in config <br />
+
+**How To Use** : Put all these files in '/home/$USER/.config/polybar/' and execute 'launch.sh' to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
+- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+
+**Bars Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_3.png) <br />
+
+**Desktop Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_3.png) <br />
+
 ## FYI
 
 - you may need to edit these config files, incase you want to change the position, size etc.
