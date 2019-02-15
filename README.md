@@ -65,17 +65,17 @@ This is a little bit different config. <br />
 
 This config setup contains 8 different files - <br />
 
-* launch.sh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// start polybar <br /> 
-* colors.ini             // configure colors <br />
-* config-top.ini          // top bar config <br />
-* config-bottom.ini       // bottom bar config <br />
-* modules.ini            // all standard modules <br />
-* user_modules.ini       // all user created modules <br />
-* bars.ini               // all bar modules config <br />
-* test-bars.ini          // test bar for all bar modules <br />
-* A Scripts DIR          // contains scripts used in config <br />
+* launch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              // start polybar <br /> 
+* colors.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             // configure colors <br />
+* config-top.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          // top bar config <br />
+* config-bottom.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       // bottom bar config <br />
+* modules.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            // all standard modules <br />
+* user_modules.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       // all user created modules <br />
+* bars.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               // all bar modules config <br />
+* test-bars.ini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          // test bar for all bar modules <br />
+* A Scripts DIR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          // contains scripts used in config <br />
 
-**How To Use** : Put all these files in  _==/home/$USER/.config/polybar/==_  and execute  _==launch.sh==_  to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
 
 ***Overview***
 - WM : Openbox
