@@ -89,6 +89,37 @@ This config setup contains 8 different files - <br />
 **Desktop Preview**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_3.png) <br />
 
+## // Polybar-4
+
+**How To Use** : Put all files in '/home/$USER/.config/polybar/' and execute 'launch.sh' to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Icomoon-feather](https://icomoon.io/app/#/select/library) <br />
+- Text Fonts : [Ubuntu Condensed](https://design.ubuntu.com/font/) <br />
+
+**Color Changer** : In this setup, i created three scripts which are used in changing colors.  <br />
+
+- colors-light.sh          // For light themes <br />
+- colors-dark.sh          // For Dark themes <br />
+- color-switch.sh         // Module script <br />
+
+To change colors, there a module (the feather one) added on polybar which changes the colors in Real-time/In-place or whatever you call it. <br />
+
+***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
+
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_cm.png) <br />
+
+**Module Tester** : A simple script *tester.sh* also added, which give you a preview of all modules. <br />
+
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_tl.png) <br />
+
+***Light Variant***
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_4.png) <br />
+
+***Dark Variant***
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_4.png) <br />
+
 ## FYI
 
 - you may need to edit these config files, incase you want to change the position, size etc.
