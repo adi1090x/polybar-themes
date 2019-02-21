@@ -119,6 +119,9 @@ To change colors, there is a module (the feather one) added on polybar which cha
 ***Dark Variant***
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_4.png) <br />
 
+**Desktop Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_4.png) <br />
+
 
 ## // Polybar-5
 
