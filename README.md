@@ -155,6 +155,66 @@ To change colors, there is a module (the feather one) added on polybar which cha
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_5_alt.png) <br />
 
 
+
+## // Polybar-6
+
+These Polybar themes are based on powerline and some other cool glyphs. <br />
+There are total 19 colors with 2 variants *(Light & Dark)* and 6 styles *[Total 228 polybar themes]*. <br />
+
+**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
+- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+- Other Fonts : [Iosevka Nerd Font](https://github.com/be5invis/Iosevka) <br />
+
+**Color Changer** : In this setup, i created three scripts which are used in changing colors.  <br />
+
+- colors-light.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         // For light themes <br />
+- colors-dark.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         // For Dark themes <br />
+- color-switch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        // Module script based on *rofi* <br />
+
+To change colors, there is a module (the one with heart) added on polybar which changes the colors in Real-time/In-place or whatever you call it. <br />
+
+**Style Changer** : also there are two scripts which are used in changing bar style.  <br />
+
+- type.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Changes Style *shell* <br />
+- type-switch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Module script based on *rofi* <br />
+
+***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/* <br />
+
+**How To** : Left click to change *colors* and right click to change *style* of the bar. <br />
+
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_changer.png) <br />
+
+***Light Variant***
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_6.png) <br />
+
+***Dark Variant***
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_6.png) <br />
+
+### Available Bar Styles Previews
+
+**Style 1**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t1.png) <br />
+
+**Style 2**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t2.png) <br />
+
+**Style 3**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t3.png) <br />
+
+**Style 4**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t4.png) <br />
+
+**Style 5**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t5.png) <br />
+
+**Style 6**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t6.png) <br />
+
+
 ## FYI
 
 - you may need to edit these config files, incase you want to change the position, size etc.
