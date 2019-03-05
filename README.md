@@ -160,6 +160,7 @@ To change colors, there is a module (the feather one) added on polybar which cha
 
 These Polybar themes are based on powerline and some other cool glyphs. <br />
 There are total 19 colors with 2 variants *(Light & Dark)* and 6 styles *[Total 228 polybar themes]*. <br />
+I used limited modules in this setup and created only a single config file, so if you need more modules, check the previous setups. <br />
 
 **How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
 
@@ -179,7 +180,7 @@ To change colors, there is a module (the one with heart) added on polybar which 
 
 **Style Changer** : also there are two scripts which are used in changing bar style.  <br />
 
-- type.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Changes Style *shell* <br />
+- type.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Changes Style *shell* <br />
 - type-switch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Module script based on *rofi* <br />
 
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/* <br />
