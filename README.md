@@ -215,6 +215,22 @@ To change colors, there is a module (the one with heart) added on polybar which 
 **Style 6**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t6.png) <br />
 
+## // Polybar-7
+
+Polybar themes with less icons and more text, color changer script also added.
+
+**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
+- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+
+**Bars Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_7.png) <br />
+
+**Desktop Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_7.png) <br />
 
 ## FYI
 
