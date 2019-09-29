@@ -257,19 +257,30 @@ Style changer script also added, with the help of it, you can easily change the 
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/FantasqueSansMono-Regular.ttf) <br />
 
 
-#### Bars Preview
+#### Bars Preview 
+Here the previews of each bar, with different icons, fonts & colors.
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8.png) <br />
 
 #### Modules Preview
+Preview of every available modules for each bar, kinda same just different icons, fonts & colors.
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8M.png) <br />
 
 #### Style Changer
+There are four style - Siji, Feather, Material & Typicons. Also there are two scripts which are used in changing bar style.  <br />
+
+- style.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Changes Style *shell* <br />
+- style-switch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Module script based on *rofi* <br />
+
+***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/* <br />
+
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8S.png) <br />
 
 #### Modules Tester
+A simple script *tester.sh* also added, which give you a preview of all modules for each bar. <br />
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8T.png) <br />
 
 #### Desktop Preview
+Here's how the desktop looks with different styles of bar, just giving you guys an idea how to use these bars with right color-scheme to make your desktop look good.
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8.png) <br />
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8A.png) <br />
 
