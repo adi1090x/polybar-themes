@@ -238,12 +238,25 @@ Another polybar themes collection. There are four types of bar, each with differ
 Style changer script also added, with the help of it, you can easily change the bar style according to your taste. 
 
 **How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+***Do Not Delete*** *source* & *scripts* directories. And also move fonts to either in */usr/share/fonts* or in *local directory*. <br />
 
 ***Overview***
 - OS : Arch Linux
 - WM : i3-gaps
+
+##### Siji
 - Icon Fonts : [Siji](https://github.com/stark/siji) <br />
 - Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+##### Feather
+- Icon Fonts : [Icomoon-feather](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/icomoon-feather.ttf) <br />
+- Text Fonts : [Ubuntu Condensed](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Ubuntu-C.ttf) <br />
+##### Material
+- Icon Fonts : [Material](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Material.ttf) <br />
+- Text Fonts : [Iosevka](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/iosevka-regular.ttf) <br />
+##### Typicons
+- Icon Fonts : [Typicons](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Typicons.ttf) <br />
+- Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/FantasqueSansMono-Regular.ttf) <br />
+
 
 **Bars Preview**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8.png) <br />
