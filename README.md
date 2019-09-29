@@ -268,8 +268,8 @@ Preview of every available modules for each bar, kinda same just different icons
 #### Style Changer
 There are four style - Siji, Feather, Material & Typicons. Also there are two scripts which are used in changing bar style.  <br />
 
-- style.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Changes Style *shell* <br />
-- style-switch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Module script based on *rofi* <br />
+- style.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Changes Style *(shell script)* <br />
+- style-switch.sh &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // Module script based on *(rofi)* <br />
 
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/* <br />
 
@@ -287,6 +287,6 @@ Here's how the desktop looks with different styles of bar, just giving you guys 
 
 ## FYI
 
-- you may need to edit these config files, incase you want to change the position, size etc.
+- You may need to edit these config files, incase you want to change the position, size etc.
 - Scripts and fonts also included in this repo.
 - More themes will be added by time.
