@@ -232,6 +232,36 @@ Polybar themes with less icons and more text, color changer script also added.
 **Desktop Preview**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_7.png) <br />
 
+## // Polybar-8
+
+Another polybar themes collection. There are four types of bar, each with different icons and fonts. 
+Style changer script also added, with the help of it, you can easily change the bar style according to your taste. 
+
+**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- OS : Arch Linux
+- WM : i3-gaps
+- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
+- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+
+**Bars Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8.png) <br />
+
+**Modules Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8M.png) <br />
+
+**Style Changer**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8S.png) <br />
+
+**Modules Tester**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8T.png) <br />
+
+**Desktop Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8A.png) <br />
+
+
 ## FYI
 
 - you may need to edit these config files, incase you want to change the position, size etc.
