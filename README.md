@@ -237,8 +237,7 @@ Polybar themes with less icons and more text, color changer script also added.
 Another polybar themes collection. There are four types of bar, each with different icons and fonts. 
 Style changer script also added, with the help of it, you can easily change the bar style according to your taste. 
 
-**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
-***Do Not Delete*** *source* & *scripts* directories. And also move fonts to either in */usr/share/fonts* or in *local directory*. <br />
+**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. ***Do Not Delete*** *source* & *scripts* directories. And also move fonts to either in */usr/share/fonts* or in *local directory*. <br />
 
 ***Overview***
 - OS : Arch Linux
@@ -258,19 +257,19 @@ Style changer script also added, with the help of it, you can easily change the 
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/FantasqueSansMono-Regular.ttf) <br />
 
 
-**Bars Preview**
+#### Bars Preview
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8.png) <br />
 
-**Modules Preview**
+#### Modules Preview
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8M.png) <br />
 
-**Style Changer**
+#### Style Changer
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8S.png) <br />
 
-**Modules Tester**
+#### Modules Tester
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8T.png) <br />
 
-**Desktop Preview**
+#### Desktop Preview
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8.png) <br />
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8A.png) <br />
 
