@@ -300,10 +300,10 @@ To change colors, there is a module added on polybar which changes the colors in
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
 
 ***Style*** : Whatever suits your style
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_9A.png) <br />
+![logo](https://github.com/adi1090x/polybar-themes/blob/master/previews/Preview_9A.png) <br />
 
 ***Previews*** : Well, that's how it looks...
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_9.png) <br />
+![logo](https://github.com/adi1090x/polybar-themes/blob/master/previews/Preview_9.png) <br />
 
 ## FYI
 
