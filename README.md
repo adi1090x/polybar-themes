@@ -256,7 +256,6 @@ Style changer script also added, with the help of it, you can easily change the 
 - Icon Fonts : [Typicons](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Typicons.ttf) <br />
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/FantasqueSansMono-Regular.ttf) <br />
 
-
 #### Bars Preview 
 Here the previews of each bar, with different icons, fonts & colors.
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8.png) <br />
@@ -284,6 +283,27 @@ Here's how the desktop looks with different styles of bar, just giving you guys 
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8.png) <br />
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8A.png) <br />
 
+## // Polybar-9
+
+This is a simple, light & very basic yet colorful polybar config.
+
+**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- OS : Arch Linux
+- WM : i3-gaps
+- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/blob/master/polybar-9/fonts/IosevkaNerdFont-Complete.ttf) <br />
+- Text Fonts : [Jua](https://github.com/adi1090x/polybar-themes/blob/master/polybar-9/fonts/Jua-Regular.ttf) <br />
+
+To change colors, there is a module added on polybar which changes the colors in Real-time/In-place or whatever you call it. <br />
+
+***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
+
+***Style*** : Whatever suits your style
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_9A.png) <br />
+
+***Previews*** : Well, that's how it looks...
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_9.png) <br />
 
 ## FYI
 
