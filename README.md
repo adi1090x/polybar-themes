@@ -306,14 +306,31 @@ To change colors, there is a module added on polybar which changes the colors in
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/Preview_9.png) <br />
 
 ## // Polybar-10 || DE/DISTRO Panels 
+In this set of polybar themes, I've created something different this time. I've made panels of various *Desktop Environments* or just days *Distros*. These may not look exactly same, but sure... give you such feeling. Each panel is configured with same style for rofi (menu, powermenu, style) as panel.<br />
+
+**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, scripts, wallpaper***. You need *rofi (for menus)* & *feh (To set wallpaper)* for these panels to work. 
+
+***Overview***
+- OS : Arch Linux
+- WM : openbox
+- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Icon Fonts : [Material](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Icon Fonts : [Icomoon feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Icon Fonts : [Linearicons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Text Fonts : [Noto Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Text Fonts : [Droid Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
 
 ***Bars/Panels*** : 
+Here's the preview of each panel...
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10.png) <br />
 
-***Style*** : 
+***Style*** :
+To switch the panel, there is a module added on each bar which switches the panel and set the default DE wallpaper (temporarily) in Real-time/In-place or whatever you call it. Here's how it looks... yeah it's a chameleon :D
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10S.png) <br />
 
 ***Previews*** : 
+Here's the previews of, how these bar looks with their default DE's wallpaper & also the rofi style.
 
 Budgie             |  Rofi 
 :-------------------------:|:-------------------------:
@@ -327,7 +344,7 @@ Elementary             |  Rofi
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_dark.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_dark_alt.png)
 
-Elementary             |  Rofi 
+Elementary Alt             |  Rofi 
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_light.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_light_alt.png)
 
