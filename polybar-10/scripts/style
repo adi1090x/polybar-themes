@@ -1,0 +1,145 @@
+#!/bin/bash
+
+## Author : Aditya Shakya
+## Github : adi1090x
+
+PDIR="$HOME/.config/polybar"
+LAUNCH="polybar-msg cmd restart"
+ 
+if  [[ $1 = "-budgie" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/budgie.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/budgie.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-deepin" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/deepin.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/deepin.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-elementary_dark" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/elementary-dark.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/elementary.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-elementary_light" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/elementary-light.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/elementary-2.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-gnome" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/gnome.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/gnome.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-kde" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/kde.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/kde.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-kde_alt" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/kde-line.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/kde-alt.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-liri" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/liri.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/liri.png
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-mint" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/mint.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/mint.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-ubuntu_gnome" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/ubuntu-gnome.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/ubuntu.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-ubuntu_unity" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/ubuntu-unity.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/ubuntu.jpg
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-xubuntu" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/xubuntu.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/xubuntu.png
+# Restarting polybar
+$LAUNCH &
+
+elif  [[ $1 = "-zorin" ]]; then
+# Removing Old File
+rm -rf $PDIR/config.ini
+# Coping New File
+cp -r $PDIR/panel/zorin.ini $PDIR/config.ini
+# Setting Background
+feh --bg-fill $PDIR/wallpaper/zorin.png
+# Restarting polybar
+$LAUNCH &
+
+else
+echo "Available options:
+-budgie		-deepin			-elementary_dark		-elementary_light
+-gnome		-kde			-kde_alt		-liri
+-mint		-ubuntu_gnome			-ubuntu_unity			-xubuntu
+-zorin"
+fi
