@@ -317,10 +317,8 @@ To change colors, there is a module added on polybar which changes the colors in
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10.mp4) <br />
 
 ***Previews*** : 
-Budgie             |  Rofi
-:-------------------------:|:-------------------------:
-![1](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie.png)  |  ![2](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie_alt.png)
 
+![Budgie](previews/p10/budgie.png "title-1") ![Rofi](previews/p10/budgie_alt.png "title-2")
 
 ## FYI
 
