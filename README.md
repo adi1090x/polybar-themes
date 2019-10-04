@@ -306,7 +306,7 @@ To change colors, there is a module added on polybar which changes the colors in
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/Preview_9.png) <br />
 
 ## // Polybar-10 || DE/DISTRO Panels 
-In this set of polybar themes, I've created something different this time. I've made panels of various *Desktop Environments* or just days *Distros*. These may not look exactly same, but sure... give you such feeling. Each panel is configured with same style for rofi (menu, powermenu, style) as panel.<br />
+In this set of polybar themes, I've created something different this time. I've made panels of various *Desktop Environments* or just say *Distros*. These may not look exactly same, but sure... give you such feeling. Each panel is configured with same style for rofi (menu, powermenu, style) as panel.<br />
 
 **How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
 Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, scripts, wallpaper***. You need *rofi (for menus)* & *feh (To set wallpaper)* for these panels to work. 
