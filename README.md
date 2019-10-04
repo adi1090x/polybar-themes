@@ -305,6 +305,23 @@ To change colors, there is a module added on polybar which changes the colors in
 ***Previews*** : Well, that's how it looks...
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/Preview_9.png) <br />
 
+## // Polybar-10 || DE/DISTRO Panels 
+
+***Bars/Panels*** : 
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10.png) <br />
+
+***Style*** : 
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10S.png) <br />
+
+***Demo*** : 
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10.mp4) <br />
+
+***Previews*** : 
+Budgie             |  Rofi
+:-------------------------:|:-------------------------:
+![1](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie.png)  |  ![2](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie_alt.png)
+
+
 ## FYI
 
 - You may need to edit these config files, incase you want to change the position, size etc.
