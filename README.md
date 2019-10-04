@@ -313,12 +313,59 @@ To change colors, there is a module added on polybar which changes the colors in
 ***Style*** : 
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10S.png) <br />
 
-***Demo*** : 
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10.mp4) <br />
-
 ***Previews*** : 
 
-![Budgie](previews/p10/budgie.png "title-1") ![Rofi](previews/p10/budgie_alt.png "title-2")
+Budgie             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie_alt.png)
+
+Deepin             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/deepin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/deepin_alt.png)
+
+Elementary             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_dark.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_dark_alt.png)
+
+Elementary             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_light.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_light_alt.png)
+
+Gnome             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/gnome_alt.png)
+
+Kde             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde1.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde1_alt.png)
+
+Kde Alt             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde2.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde2_alt.png)
+
+Liri             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/liri.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/liri_alt.png)
+
+Mint             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/mint.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/mint_alt.png)
+
+Ubuntu Gnome             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_gnome_alt.png)
+
+Ubuntu Unity             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_unity.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_unity_alt.png)
+
+Xubuntu             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/xubuntu.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/xubuntu_alt.png)
+
+Zorin             |  Rofi 
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/zorin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/zorin_alt.png)
 
 ## FYI
 
