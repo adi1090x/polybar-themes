@@ -274,7 +274,7 @@ There are four style - Siji, Feather, Material & Typicons. Also there are two sc
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8S.png">
-</p> <br />
+</p> <br 
 
 #### Modules Tester
 A simple script *tester.sh* also added, which give you a preview of all modules for each bar. <br />
