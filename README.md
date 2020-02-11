@@ -1,5 +1,14 @@
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/logo.png) <br />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/github/license/adi1090x/polybar-themes?style=flat-square">
+  <img src="https://img.shields.io/github/stars/adi1090x/polybar-themes?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/adi1090x/polybar-themes?style=flat-square">
+  <img src="https://img.shields.io/github/issues/adi1090x/polybar-themes?style=flat-square">
+</p>
+
+
 [Polybar](https://github.com/jaagr/polybar) aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of having a black belt in shell scripting. <br />
 
 The main purpose of Polybar is to help users create awesome status bars. It has built-in functionality to display information about the most commonly used services. Some of the services included so far... <br />
