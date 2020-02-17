@@ -431,6 +431,7 @@ Just Another Bitmap Style Theme...
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_11.png) <br />
 
 **Desktop Preview**
+
 Gray             |  Pink
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11.png) |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11_alt.png)
