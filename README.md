@@ -98,9 +98,8 @@ Another collection of themes with different material color shades, total 19 colo
 
 ## // Polybar-3
 
-This is a little bit different config. <br />
+It's a bit different config, kind of modular, This config setup contains 8 different files - <br />
 
-This config setup contains 8 different files - <br />
 |File|Action|
 |---|---|
 |**launch.sh**|start polybar|
@@ -113,7 +112,7 @@ This config setup contains 8 different files - <br />
 |**test-bars.ini**|test bar for all bar modules|
 |**A Scripts DIR**|contains scripts used in config|
 
-**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-3* to ***/home/$USER/.config/polybar/*** and execute ***launch.sh*** to start the polybar or add this script to your WM *autostart* file. <br />
 
 ***Overview***
 - WM : Openbox
@@ -128,7 +127,7 @@ This config setup contains 8 different files - <br />
 
 ## // Polybar-4
 
-**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-4* to *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - WM : Openbox
@@ -166,7 +165,7 @@ To change colors, there is a module (the feather one) added on polybar which cha
 **Info** : I saw [This reddit post](https://www.reddit.com/r/unixporn/comments/9iidz9/i3gaps_cherry_blossom/) & i really liked the design of that polybar. So I Stole it (The Design Only), write it my way & added my functionality (Every Module & Color Script). <br />
 [Here](https://gitlab.com/BVollmerhaus/dotfiles/tree/master/config/polybar) is his config, DESIGN CREDIT GOES TO : *[Benedikt Vollmerhaus](https://gitlab.com/BVollmerhaus)*  <br />
 
-**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-5* to *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - WM : Openbox
@@ -178,7 +177,6 @@ To change colors, there is a module (the feather one) added on polybar which cha
 To change colors, there is a module (the feather one) added on polybar which changes the colors in Real-time/In-place or whatever you call it. <br />
 
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
-
 
 ***Top Bar***
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_5.png) <br />
@@ -192,15 +190,13 @@ To change colors, there is a module (the feather one) added on polybar which cha
 
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_5_alt.png) <br />
 
-
-
 ## // Polybar-6
 
 These Polybar themes are based on powerline and some other cool glyphs. <br />
 There are total 19 colors with 2 variants *(Light & Dark)* and 6 styles *[Total 228 polybar themes]*. <br />
 I used limited modules in this setup and created only a single config file, so if you need more modules, check the previous setups. <br />
 
-**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-6* to *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - WM : Openbox
@@ -257,7 +253,7 @@ To change colors, there is a module (the one with heart) added on polybar which 
 
 Polybar themes with less icons and more text, color changer script also added.
 
-**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-7* to ***/home/$USER/.config/polybar/*** and execute ***launch.sh*** to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - WM : Openbox
@@ -275,7 +271,7 @@ Polybar themes with less icons and more text, color changer script also added.
 Another polybar themes collection. There are four types of bar, each with different icons and fonts. 
 Style changer script also added, with the help of it, you can easily change the bar style according to your taste. 
 
-**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. ***Do Not Delete*** *source* & *scripts* directories. And also move fonts to either in */usr/share/fonts* or in *local directory*. <br />
+**How To Use** : Put all the files form *polybar-8* to ***/home/$USER/.config/polybar/*** and execute ***launch.sh*** to start the polybar or add this script to your WM startup file. ***Do Not Delete*** *source* & *scripts* directories. And also move fonts to either in */usr/share/fonts* or in *local directory*. <br />
 
 ***Overview***
 - OS : Arch Linux
@@ -327,7 +323,7 @@ Here's how the desktop looks with different styles of bar, just giving you guys 
 
 This is a simple, light & very basic yet colorful polybar config.
 
-**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-9* to *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - OS : Arch Linux
@@ -348,18 +344,14 @@ To change colors, there is a module added on polybar which changes the colors in
 ## // Polybar-10 || DE/DISTRO Panels 
 In this set of polybar themes, I've created something different this time. I've made panels of various *Desktop Environments* or just say *Distros*. These may not look exactly same, but sure... give you such feeling. Each panel is configured with same style for rofi (menu, powermenu, style) as panel. Compton is used to get the *blur* in some menu and panels (like, deepin, zorin & Kde). <br />
 
-**How To Use** : Put all files in *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-10* to *'/home/$USER/.config/polybar/'* and execute *'launch.sh'* to start the polybar or add this script to your WM autostart file. <br />
 Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, scripts, wallpaper***. You need *rofi (for menus)* & *feh (To set wallpaper)* for these panels to work. 
 
 ***Overview***
 - OS : Arch Linux
 - WM : openbox
-- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
-- Icon Fonts : [Material](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
-- Icon Fonts : [Icomoon feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
-- Icon Fonts : [Linearicons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
-- Text Fonts : [Noto Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
-- Text Fonts : [Droid Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts), [Material](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts), [Icomoon feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) & [Linearicons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
+- Text Fonts : [Noto Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) & [Droid Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-10/fonts) <br />
 
 ***Bars/Panels*** : 
 Here's the preview of each panel...
@@ -428,7 +420,7 @@ Zorin             |  Rofi
 
 Just Another Bitmap Style Theme...
 
-**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+**How To Use** : Put all the files form *polybar-11* to  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - WM : Openbox
@@ -439,9 +431,9 @@ Just Another Bitmap Style Theme...
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_11.png) <br />
 
 **Desktop Preview**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11.png) <br />
-
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11_alt.png) <br />
+Gray             |  Pink
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11.png) |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11_alt.png)
 
 ## FYI
 
