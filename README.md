@@ -31,6 +31,23 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 - Inter-process messaging
 - And [more](https://github.com/jaagr/polybar)... <br />
 
+<details>
+<summary>Quick Links</summary>
+    
+- [Polybar 1](https://github.com/adi1090x/polybar-themes#-polybar-1)
+- [Polybar 2](https://github.com/adi1090x/polybar-themes#-polybar-2)
+- [Polybar 3](https://github.com/adi1090x/polybar-themes#-polybar-3)
+- [Polybar 4](https://github.com/adi1090x/polybar-themes#-polybar-4)
+- [Polybar 5](https://github.com/adi1090x/polybar-themes#-polybar-5)
+- [Polybar 6](https://github.com/adi1090x/polybar-themes#-polybar-6)
+- [Polybar 7](https://github.com/adi1090x/polybar-themes#-polybar-7)
+- [Polybar 8](https://github.com/adi1090x/polybar-themes#-polybar-8)
+- [Polybar 9](https://github.com/adi1090x/polybar-themes#-polybar-9)
+- [Polybar 10](https://github.com/adi1090x/polybar-themes#-polybar-10--dedistro-panels)
+- [Polybar 11](https://github.com/adi1090x/polybar-themes#-polybar-11)
+
+</details>
+
 
 ## // Polybar-1
 
@@ -394,6 +411,25 @@ Xubuntu             |  Rofi
 Zorin             |  Rofi 
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/zorin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/zorin_alt.png)
+
+## // Polybar-11
+
+Just Another Bitmap Style Theme...
+
+**How To Use** : Put all these files in  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM startup file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
+- Text Fonts : [scientifica](a) <br />
+
+**Bars Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_11.png) <br />
+
+**Desktop Preview**
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11.png) <br />
+
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11_alt.png) <br />
 
 ## FYI
 
