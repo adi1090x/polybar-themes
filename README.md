@@ -48,6 +48,17 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 
 </details>
 
+**How to use :** These are just simple config files, to use these themes, clone this *repo* and copy all the config files from theme you like to *$HOME/.config/polybar* and them execute *launch.sh*.
++ Make sure you've installed the required fonts or you'll face *Dropping character* issue.
++ Don't change the path of scripts or they won't work.
+
+Let's say, i want to use *polybar 3*, Now...
+```
+cd $HOME
+git clone https://github.com/adi1090x/polybar-themes.git
+cp -r $HOME/polybar-themes/polybar-3/* $HOME/.config/polybar
+sh $HOME/.config/polybar/launch.sh
+```
 
 ## // Polybar-1
 
@@ -421,7 +432,7 @@ Just Another Bitmap Style Theme...
 ***Overview***
 - WM : Openbox
 - Icon Fonts : [Siji](https://github.com/stark/siji) <br />
-- Text Fonts : [scientifica](a) <br />
+- Text Fonts : [scientifica](https://github.com/NerdyPepper/scientifica) <br />
 
 **Bars Preview**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_11.png) <br />
