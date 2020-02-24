@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/github/issues/adi1090x/polybar-themes?style=flat-square">
 </p>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+</p>
 
 [Polybar](https://github.com/jaagr/polybar) aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of having a black belt in shell scripting. <br />
 
