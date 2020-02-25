@@ -86,7 +86,7 @@ Another collection of themes with different material color shades, total 19 colo
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Iosevka Nerd Font](https://github.com/be5invis/Iosevka) <br />
+- Icon Fonts : [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka) <br />
 - Text Fonts : [Fantasque Sans](https://github.com/belluzj/fantasque-sans) <br />
 
 **Dark Variant**
