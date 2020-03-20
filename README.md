@@ -83,20 +83,20 @@ cp -r * ~/.config/polybar
 
 A collection of themes with different material colors, total 19 colors with 2 variants. <br />
 
-***Overview***
-
-- WM : Openbox
-- Icon Fonts : [Material Icons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1/fonts) <br />
-- Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1/fonts) <br />
-
 ***UPDATES***
-
-![gif](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/gif/p1.gif) <br />
 
 + Single config file for both *dark* & *light* mode
 + Style Menu (Right click on menu module)
 + Changes colors of rofi menus to match with bar
 + Fonts & Scripts included
+
+![gif](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/gif/p1.gif) <br />
+
+***Overview***
+
+- WM : Openbox
+- Icon Fonts : [Material Icons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1/fonts) <br />
+- Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1/fonts) <br />
 
 **Dark Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark.png) <br />
