@@ -90,36 +90,13 @@ A collection of themes with different material colors, total 19 colors with 2 va
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1/fonts) <br />
 
 ***UPDATES***
-+ Single config file for both *dark* & *light* mode.
-+ Style Menu (Right click on menu module)
-+ Changes colors of rofi menus to match with bar
-+ Fonts & Scripts included
 
 ![gif](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/gif/p1.gif) <br />
 
-***How to use*** 
-```bash
-# change to home dir
-cd $HOME
-
-# clone this repo
-git clone https://github.com/adi1090x/polybar-themes
-
-# go to polybar-1 dir
-cd polybar-themes/polybar-1
-
-# copy fonts to local fonts dir
-cp -r fonts/* ~/.local/share/fonts
-
-# reload font cache
-fc-cache -v
-
-# copy everything from polybar-1 to polybar config dir (backup your config first if you have)
-cp -r * ~/.config/polybar
-
-# run launch.sh 
-~/.config/polybar/launch.sh
-```
++ Single config file for both *dark* & *light* mode
++ Style Menu (Right click on menu module)
++ Changes colors of rofi menus to match with bar
++ Fonts & Scripts included
 
 **Dark Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark.png) <br />
