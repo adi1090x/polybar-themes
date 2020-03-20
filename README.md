@@ -55,12 +55,28 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 + Make sure you've installed the required fonts or you'll face *Dropping character* issue.
 + Don't change the path of scripts or they won't work.
 
-Let's say, I want to use *polybar 3*, Now...
-```
+Let's say, I want to use *polybar 1*, Now...
+```bash
+# change to home dir
 cd $HOME
-git clone https://github.com/adi1090x/polybar-themes.git
-cp -r $HOME/polybar-themes/polybar-3/* $HOME/.config/polybar
-sh $HOME/.config/polybar/launch.sh
+
+# clone this repo
+git clone https://github.com/adi1090x/polybar-themes
+
+# go to polybar-1 dir
+cd polybar-themes/polybar-1
+
+# copy fonts to local fonts dir (i'll put the fonts in all dirs)
+cp -r fonts/* ~/.local/share/fonts
+
+# reload font cache
+fc-cache -v
+
+# copy everything from polybar-1 to polybar config dir (backup your config first if you have)
+cp -r * ~/.config/polybar
+
+# run launch.sh 
+~/.config/polybar/launch.sh
 ```
 
 ## // Polybar-1
