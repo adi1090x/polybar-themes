@@ -67,6 +67,14 @@ sh $HOME/.config/polybar/launch.sh
 
 A collection of themes with different material colors, total 19 colors with 2 variants. <br />
 
+***UPDATES***
++ Single config file for both *dark* & *light* mode.
++ Style Menu (Right click on menu module)
++ Changes colors of rofi menus to match with bar
++ Fonts & Scripts included
+
+![gif](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/gif/p1.gif) <br />
+
 ***Overview***
 
 - WM : Openbox
