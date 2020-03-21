@@ -129,9 +129,6 @@ Another collection of themes with different material color shades, total 19 colo
 **Light Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_2.png) <br />
 
-**Alt Light Variant**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_2_alt.png) <br />
-
 
 ## // Polybar-3
 
