@@ -4,11 +4,11 @@
 
 BORDER="#1F1F1F"
 SEPARATOR="#1F1F1F"
-FOREGROUND="#FFFFFF"
+FOREGROUND="#A9ABB0"
 BACKGROUND="#1F1F1F"
 BACKGROUND_ALT="#252525"
-HIGHLIGHT_BACKGROUND="#00897b"
-HIGHLIGHT_FOREGROUND="#1F1F1F"
+HIGHLIGHT_BACKGROUND="#FF6F00"
+HIGHLIGHT_FOREGROUND="#FFFFFF"
 
 BLACK="#000000"
 WHITE="#ffffff"
@@ -34,24 +34,30 @@ LIGHT_BLUE="#039be5"
 LIGHT_GREEN="#7cb342"
 
 # Launch Rofi
-rofi -no-lazy-grab -show drun \
--display-drun "Applications :" -drun-display-format "{name}" \
+MENU="$(rofi -no-lazy-grab -sep "|" -dmenu -i -p 'System :' \
 -hide-scrollbar true \
 -bw 0 \
--lines 10 \
+-lines 4 \
 -line-padding 10 \
 -padding 20 \
--width 30 \
--xoffset 68 -yoffset -70 \
--location 7 \
--columns 2 \
+-width 15 \
+-xoffset -27 -yoffset 60 \
+-location 3 \
+-columns 1 \
 -show-icons -icon-theme "Papirus" \
 -font "Fantasque Sans Mono 10" \
 -color-enabled true \
 -color-window "$BACKGROUND,$BORDER,$SEPARATOR" \
 -color-normal "$BACKGROUND_ALT,$FOREGROUND,$BACKGROUND_ALT,$HIGHLIGHT_BACKGROUND,$HIGHLIGHT_FOREGROUND" \
 -color-active "$BACKGROUND,$MAGENTA,$BACKGROUND_ALT,$HIGHLIGHT_BACKGROUND,$HIGHLIGHT_FOREGROUND" \
--color-urgent "$BACKGROUND,$YELLOW,$BACKGROUND_ALT,$HIGHLIGHT_BACKGROUND,$HIGHLIGHT_FOREGROUND"
+-color-urgent "$BACKGROUND,$YELLOW,$BACKGROUND_ALT,$HIGHLIGHT_BACKGROUND,$HIGHLIGHT_FOREGROUND" \
+<<< "  Lock|  Logout|  Reboot|  Shutdown")"
+case "$MENU" in
+  *Lock) i3lock ;;
+  *Logout) openbox --exit;;
+  *Reboot) systemctl reboot ;;
+  *Shutdown) systemctl -i poweroff
+esac
 
 # More Options
 # -fullscreen \

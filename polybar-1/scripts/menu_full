@@ -47,7 +47,7 @@ rofi -no-lazy-grab -show drun \
 -fullscreen \
 -columns 4 \
 -show-icons -icon-theme "Papirus" \
--font "Noto Sans 9" \
+-font "Fantasque Sans Mono 10" \
 -color-enabled true \
 -color-window "$BACKGROUND,$BORDER,$SEPARATOR" \
 -color-normal "$BACKGROUND_ALT,$FOREGROUND,$BACKGROUND_ALT,$HIGHLIGHT_BACKGROUND,$HIGHLIGHT_FOREGROUND" \

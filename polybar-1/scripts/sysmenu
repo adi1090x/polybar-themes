@@ -45,7 +45,7 @@ MENU="$(rofi -no-lazy-grab -sep "|" -dmenu -i -p 'System :' \
 -location 5 \
 -columns 1 \
 -show-icons -icon-theme "Papirus" \
--font "Noto Sans 9" \
+-font "Fantasque Sans Mono 10" \
 -color-enabled true \
 -color-window "$BACKGROUND,$BORDER,$SEPARATOR" \
 -color-normal "$BACKGROUND_ALT,$FOREGROUND,$BACKGROUND_ALT,$HIGHLIGHT_BACKGROUND,$HIGHLIGHT_FOREGROUND" \

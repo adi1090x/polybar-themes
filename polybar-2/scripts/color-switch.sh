@@ -6,11 +6,11 @@
 
 BORDER="#1F1F1F"
 SEPARATOR="#1F1F1F"
-FOREGROUND="#FFFFFF"
+FOREGROUND="#A9ABB0"
 BACKGROUND="#1F1F1F"
 BACKGROUND_ALT="#252525"
-HIGHLIGHT_BACKGROUND="#00897b"
-HIGHLIGHT_FOREGROUND="#1F1F1F"
+HIGHLIGHT_BACKGROUND="#FF6F00"
+HIGHLIGHT_FOREGROUND="#FFFFFF"
 
 BLACK="#000000"
 WHITE="#ffffff"
@@ -45,8 +45,8 @@ MENU="$(rofi -no-lazy-grab -sep "|" -dmenu -i -p 'Style :' \
 -line-padding 10 \
 -padding 20 \
 -width 30 \
--xoffset 68 -yoffset -70 \
--location 7 \
+-xoffset 27 -yoffset 60 \
+-location 1 \
 -columns 2 \
 -show-icons -icon-theme "Papirus" \
 -font "Fantasque Sans Mono 10" \
