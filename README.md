@@ -107,7 +107,7 @@ A collection of themes with different material colors, total 19 colors with 2 va
 
 ## // Polybar-2
 
-Another collection of themes with different material color shades, total 19 colors with 3 variants, (2 alt). <br />
+Another collection of themes with different material color shades, total 19 colors with 2 variants. <br />
 
 ***UPDATES***
 
