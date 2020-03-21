@@ -112,7 +112,7 @@ Another collection of themes with different material color shades, total 19 colo
 ***UPDATES***
 
 + Single config file for both *dark* & *light* mode
-+ Style Menu (Right click on menu module)
++ Style Menu (Right click on search button/module)
 + Changes colors of rofi menus to match with bar
 + Fonts & Scripts included
 
@@ -120,8 +120,8 @@ Another collection of themes with different material color shades, total 19 colo
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka) <br />
-- Text Fonts : [Fantasque Sans](https://github.com/belluzj/fantasque-sans) <br />
+- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-2/fonts) <br />
+- Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-2/fonts) <br />
 
 **Dark Variant**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_2.png) <br />
