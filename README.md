@@ -150,8 +150,8 @@ It's a bit different config, kind of modular, This config setup contains 8 diffe
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
-- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+- Icon Fonts : [Siji](https://github.com/adi1090x/polybar-themes/tree/master/polybar-3/fonts) <br />
+- Text Fonts : [Termsyn](https://github.com/adi1090x/polybar-themes/tree/master/polybar-3/fonts) <br />
 
 **Bars Preview** : Top & Bottom
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_3.png) <br />
@@ -165,8 +165,8 @@ It's a bit different config, kind of modular, This config setup contains 8 diffe
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Icomoon-feather](https://icomoon.io/app/#/select/library) <br />
-- Text Fonts : [Ubuntu Condensed](https://design.ubuntu.com/font/) <br />
+- Icon Fonts : [Icomoon-feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-4/fonts) <br />
+- Text Fonts : [Ubuntu Condensed](https://github.com/adi1090x/polybar-themes/tree/master/polybar-4/fonts) <br />
 
 **Color Changer** : In this setup, I created three scripts which are used in changing colors.  <br />
 
@@ -203,8 +203,8 @@ To change colors, there is a module (the feather one) added on polybar which cha
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Icomoon-feather](https://icomoon.io/app/#/select/library) <br />
-- Text Fonts : [Iosevka](https://github.com/be5invis/Iosevka) <br />
+- Icon Fonts : [Icomoon-feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-5/fonts) <br />
+- Text Fonts : [Iosevka](https://github.com/adi1090x/polybar-themes/tree/master/polybar-5/fonts) <br />
 
 **Color Changer** : This setup has 6 color modes. <br />
 
@@ -234,9 +234,9 @@ I used limited modules in this setup and created only a single config file, so i
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
-- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
-- Other Fonts : [Iosevka Nerd Font](https://github.com/be5invis/Iosevka) <br />
+- Icon Fonts : [Siji](https://github.com/adi1090x/polybar-themes/tree/master/polybar-6/fonts) <br />
+- Text Fonts : [Termsyn](https://github.com/adi1090x/polybar-themes/tree/master/polybar-6/fonts) <br />
+- Other Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-6/fonts) <br />
 
 **Color Changer** : In this setup, I created three scripts which are used in changing colors.  <br />
 
@@ -291,8 +291,8 @@ Polybar themes with less icons and more text, color changer script also added.
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
-- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+- Icon Fonts : [Siji](https://github.com/adi1090x/polybar-themes/tree/master/polybar-7/fonts) <br />
+- Text Fonts : [Termsyn](https://github.com/adi1090x/polybar-themes/tree/master/polybar-7/fonts) <br />
 
 **Bars Preview**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_7.png) <br />
@@ -312,17 +312,17 @@ Style changer script also added, with the help of it, you can easily change the 
 - WM : i3-gaps
 
 ##### Siji
-- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
-- Text Fonts : [Termsyn](https://aur.archlinux.org/packages/termsyn-font/) <br />
+- Icon Fonts : [Siji](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
+- Text Fonts : [Termsyn](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
 ##### Feather
-- Icon Fonts : [Icomoon-feather](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/icomoon-feather.ttf) <br />
-- Text Fonts : [Ubuntu Condensed](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Ubuntu-C.ttf) <br />
+- Icon Fonts : [Icomoon-feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
+- Text Fonts : [Ubuntu Condensed](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
 ##### Material
-- Icon Fonts : [Material](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Material.ttf) <br />
-- Text Fonts : [Iosevka](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/iosevka-regular.ttf) <br />
+- Icon Fonts : [Material](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
+- Text Fonts : [Iosevka](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
 ##### Typicons
-- Icon Fonts : [Typicons](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/Typicons.ttf) <br />
-- Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/blob/master/polybar-8/fonts/FantasqueSansMono-Regular.ttf) <br />
+- Icon Fonts : [Typicons](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
+- Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-8/fonts) <br />
 
 #### Bars Preview 
 Here the previews of each bar, with different icons, fonts & colors.
@@ -362,8 +362,8 @@ This is a simple, light & very basic yet colorful polybar config.
 ***Overview***
 - OS : Arch Linux
 - WM : i3-gaps
-- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/blob/master/polybar-9/fonts/IosevkaNerdFont-Complete.ttf) <br />
-- Text Fonts : [Jua](https://github.com/adi1090x/polybar-themes/blob/master/polybar-9/fonts/Jua-Regular.ttf) <br />
+- Icon Fonts : [Iosevka Nerd Font](https://github.com/adi1090x/polybar-themes/tree/master/polybar-9/fonts) <br />
+- Text Fonts : [Jua](https://github.com/adi1090x/polybar-themes/tree/master/polybar-9/fonts) <br />
 
 To change colors, there is a module added on polybar which changes the colors in Real-time/In-place or whatever you call it. <br />
 
@@ -458,8 +458,8 @@ Just Another Bitmap Style Theme...
 
 ***Overview***
 - WM : Openbox
-- Icon Fonts : [Siji](https://github.com/stark/siji) <br />
-- Text Fonts : [scientifica](https://github.com/NerdyPepper/scientifica) <br />
+- Icon Fonts : [Siji](https://github.com/adi1090x/polybar-themes/tree/master/polybar-11/fonts) <br />
+- Text Fonts : [scientifica](https://github.com/adi1090x/polybar-themes/tree/master/polybar-11/fonts) <br />
 
 **Bars Preview**
 ![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_11.png) <br />
