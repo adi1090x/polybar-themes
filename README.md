@@ -79,6 +79,8 @@ cp -r * ~/.config/polybar
 ~/.config/polybar/launch.sh
 ```
 
+**Download :** You can now download individual themes directly from [Here](https://github.com/adi1090x/files/tree/master/polybar-themes/themes)
+
 ## // Polybar-1
 
 A collection of themes with different material colors, total 19 colors with 2 variants. <br />
