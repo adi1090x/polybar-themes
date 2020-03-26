@@ -51,6 +51,11 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 
 </details>
 
+**Download :** You can download individual themes directly, *No need to clone whole repo it you don't want to*.
+<p align="center">
+  <a href="https://github.com/adi1090x/files/tree/master/polybar-themes/themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github"></a>
+</p>
+
 **How to use :** These are just simple config files, to use these themes, clone this *repo* and copy all the config files from theme you like to *$HOME/.config/polybar* and then execute *launch.sh*.
 + Make sure you've installed the required fonts or you'll face *Dropping character* issue.
 + Don't change the path of scripts or they won't work.
@@ -78,11 +83,6 @@ cp -r * ~/.config/polybar
 # run launch.sh 
 ~/.config/polybar/launch.sh
 ```
-
-**Download :** You can download individual themes directly, *No need to clone whole repo it you don't want to*.
-<p align="center">
-  <a href="https://github.com/adi1090x/files/tree/master/polybar-themes/themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github"></a>
-</p>
 
 ## // Polybar-1
 
