@@ -79,7 +79,10 @@ cp -r * ~/.config/polybar
 ~/.config/polybar/launch.sh
 ```
 
-**Download :** You can now download individual themes directly from [Here](https://github.com/adi1090x/files/tree/master/polybar-themes/themes)
+**Download :** You can download individual themes directly, *No need to clone whole repo it you don't want to*.
+<p align="center">
+  <a href="https://github.com/adi1090x/files/tree/master/polybar-themes/themes"><img alt="undefined" src="https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github"></a>
+</p>
 
 ## // Polybar-1
 
