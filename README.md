@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/logo.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/logo.png) <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=flat-square">
@@ -96,7 +96,7 @@ A collection of themes with different material colors, total 19 colors with 2 va
 + Changes colors of rofi menus to match with bar
 + Fonts & Scripts included
 
-![gif](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/gif/p1.gif) <br />
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/gif/p1.gif) <br />
 
 ***Overview***
 
@@ -105,10 +105,10 @@ A collection of themes with different material colors, total 19 colors with 2 va
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1/fonts) <br />
 
 **Dark Variant**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_dark.png) <br />
 
 **Light Variant**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_light.png) <br />
 
 
 ## // Polybar-2
@@ -122,7 +122,7 @@ Another collection of themes with different material color shades, total 19 colo
 + Changes colors of rofi menus to match with bar
 + Fonts & Scripts included
 
-![gif](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/gif/p2.gif) <br />
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/gif/p2.gif) <br />
 
 ***Overview***
 - WM : Openbox
@@ -130,10 +130,10 @@ Another collection of themes with different material color shades, total 19 colo
 - Text Fonts : [Fantasque Sans](https://github.com/adi1090x/polybar-themes/tree/master/polybar-2/fonts) <br />
 
 **Dark Variant**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_2.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_dark_2.png) <br />
 
 **Light Variant**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_2.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_light_2.png) <br />
 
 
 ## // Polybar-3
@@ -160,10 +160,10 @@ It's a bit different config, kind of modular, This config setup contains 8 diffe
 - Text Fonts : [Termsyn](https://github.com/adi1090x/polybar-themes/tree/master/polybar-3/fonts) <br />
 
 **Bars Preview** : Top & Bottom
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_3.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_3.png) <br />
 
 **Desktop Preview**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_3.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_3.png) <br />
 
 ## // Polybar-4
 
@@ -184,20 +184,20 @@ To change colors, there is a module (the feather one) added on polybar which cha
 
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
 
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_cm.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_cm.png) <br />
 
 **Module Tester** : A simple script *tester.sh* also added, which give you a preview of all modules. <br />
 
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_tl.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_tl.png) <br />
 
 ***Light Variant***
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_4.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_4.png) <br />
 
 ***Dark Variant***
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_4.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_dark_4.png) <br />
 
 **Desktop Preview**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_4.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_4.png) <br />
 
 
 ## // Polybar-5
@@ -219,16 +219,16 @@ To change colors, there is a module (the feather one) added on polybar which cha
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
 
 ***Top Bar***
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_5.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_5.png) <br />
 
 ***Bottom Bar***
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_5_alt.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_5_alt.png) <br />
 
 **Desktop Preview**
 
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_5.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_5.png) <br />
 
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_5_alt.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_5_alt.png) <br />
 
 ## // Polybar-6
 
@@ -261,33 +261,33 @@ To change colors, there is a module (the one with heart) added on polybar which 
 
 **How To** : Left click to change *colors* and right click to change *style* of the bar. <br />
 
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_changer.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_changer.png) <br />
 
 ***Light Variant***
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_light_6.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_light_6.png) <br />
 
 ***Dark Variant***
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_dark_6.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_dark_6.png) <br />
 
 ### Available Bar Styles Previews
 
 **Style 1**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t1.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_t1.png) <br />
 
 **Style 2**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t2.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_t2.png) <br />
 
 **Style 3**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t3.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_t3.png) <br />
 
 **Style 4**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t4.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_t4.png) <br />
 
 **Style 5**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t5.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_t5.png) <br />
 
 **Style 6**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_t6.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_t6.png) <br />
 
 ## // Polybar-7
 
@@ -301,10 +301,10 @@ Polybar themes with less icons and more text, color changer script also added.
 - Text Fonts : [Termsyn](https://github.com/adi1090x/polybar-themes/tree/master/polybar-7/fonts) <br />
 
 **Bars Preview**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_7.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_7.png) <br />
 
 **Desktop Preview**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_7.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_7.png) <br />
 
 ## // Polybar-8
 
@@ -332,11 +332,11 @@ Style changer script also added, with the help of it, you can easily change the 
 
 #### Bars Preview 
 Here the previews of each bar, with different icons, fonts & colors.
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_8.png) <br />
 
 #### Modules Preview
 Preview of every available modules for each bar, kinda same just different icons, fonts & colors.
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8M.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_8M.png) <br />
 
 #### Style Changer
 There are four style - Siji, Feather, Material & Typicons. Also there are two scripts which are used in changing bar style.  <br />
@@ -347,17 +347,17 @@ There are four style - Siji, Feather, Material & Typicons. Also there are two sc
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/* <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8S.png">
+  <img src="https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_8S.png">
 </p> <br 
 
 #### Modules Tester
 A simple script *tester.sh* also added, which give you a preview of all modules for each bar. <br />
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_8T.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_8T.png) <br />
 
 #### Desktop Preview
 Here's how the desktop looks with different styles of bar, just giving you guys an idea how to use these bars with right color-scheme to make your desktop look good.
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8.png) <br />
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_8A.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_8.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_8A.png) <br />
 
 ## // Polybar-9
 
@@ -376,10 +376,10 @@ To change colors, there is a module added on polybar which changes the colors in
 ***Warning*** : Don't change the script's location, default path is *$HOME/.config/polybar/scripts/*
 
 ***Style*** : Whatever suits your style
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/Preview_9A.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/Preview_9A.png) <br />
 
 ***Previews*** : Well, that's how it looks...
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/Preview_9.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/Preview_9.png) <br />
 
 ## // Polybar-10 || DE/DISTRO Panels 
 In this set of polybar themes, I've created something different this time. I've made panels of various *Desktop Environments* or just say *Distros*. These may not look exactly same, but sure... give you such feeling. Each panel is configured with same style for rofi (menu, powermenu, style) as panel. Compton is used to get the *blur* in some menu and panels (like, deepin, zorin & Kde). <br />
@@ -395,66 +395,66 @@ Also make the scripts ***Executable*** & *Do Not Delete* the folder ***panel, sc
 
 ***Bars/Panels*** : 
 Here's the preview of each panel...
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_10.png) <br />
 
 ***Style*** :
 To switch the panel, there is a module added on each bar which switches the panel and set the default DE wallpaper (temporarily) in Real-time/In-place or whatever you call it. Here's how it looks... yeah it's a chameleon :D
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_10S.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_10S.png) <br />
 
 ***Previews*** : 
 Here's the previews of, how these bar looks with their default DE's wallpaper & also the rofi style.
 
 Budgie             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/budgie_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/budgie.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/budgie_alt.png)
 
 Deepin             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/deepin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/deepin_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/deepin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/deepin_alt.png)
 
 Elementary             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_dark.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_dark_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_dark.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_dark_alt.png)
 
 Elementary Alt             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_light.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/elementary_light_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_light.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/elementary_light_alt.png)
 
 Gnome             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/gnome_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/gnome_alt.png)
 
 Kde             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde1.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde1_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde1.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde1_alt.png)
 
 Kde Alt             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde2.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/kde2_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde2.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/kde2_alt.png)
 
 Liri             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/liri.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/liri_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/liri.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/liri_alt.png)
 
 Mint             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/mint.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/mint_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/mint.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/mint_alt.png)
 
 Ubuntu Gnome             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_gnome_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_gnome.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_gnome_alt.png)
 
 Ubuntu Unity             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_unity.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/ubuntu_unity_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_unity.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/ubuntu_unity_alt.png)
 
 Xubuntu             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/xubuntu.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/xubuntu_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/xubuntu.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/xubuntu_alt.png)
 
 Zorin             |  Rofi 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/zorin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/p10/zorin_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/zorin.png)  |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/p10/zorin_alt.png)
 
 ## // Polybar-11
 
@@ -468,13 +468,13 @@ Just Another Bitmap Style Theme...
 - Text Fonts : [scientifica](https://github.com/adi1090x/polybar-themes/tree/master/polybar-11/fonts) <br />
 
 **Bars Preview**
-![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/preview_11.png) <br />
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_11.png) <br />
 
 **Desktop Preview**
 
 Gray             |  Pink
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11.png) |  ![](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/desktop_11_alt.png)
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_11.png) |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_11_alt.png)
 
 ### Support This Project
 <p align="left">
