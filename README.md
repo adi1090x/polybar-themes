@@ -493,15 +493,16 @@ Gray             |  Pink
 - Text Fonts : [scientifica](https://github.com/adi1090x/polybar-themes/tree/master/polybar-11/fonts) <br />
 
 **Bar Preview**
+
 `Dark`
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_12.png) <br />
 
 `Light`
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_l_12.png) <br />
 
-**Switch Modes** Left ckick for `Light Mode` & Right click for `Dark Mode`, On *Heart* Module.
+**Switch Modes** : Left ckick for `Light Mode` & Right click for `Dark Mode`, On *Heart* Module.
 
-**Module Preview**
+**Module Preview** : There is a `tester.sh` file to test all available modules.
 
 ![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_m_12.png) <br />
 
@@ -509,7 +510,7 @@ Gray             |  Pink
 
 **Desktop Preview**
 
-Gray             |  Pink
+Dark             |  Light
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_12.png) |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_12_alt.png)
 
