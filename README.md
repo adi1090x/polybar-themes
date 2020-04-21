@@ -49,6 +49,7 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 - [Polybar 9](https://github.com/adi1090x/polybar-themes#-polybar-9)
 - [Polybar 10](https://github.com/adi1090x/polybar-themes#-polybar-10--dedistro-panels)
 - [Polybar 11](https://github.com/adi1090x/polybar-themes#-polybar-11)
+- [Polybar 12](https://github.com/adi1090x/polybar-themes#-polybar-12)
 
 </details>
 
