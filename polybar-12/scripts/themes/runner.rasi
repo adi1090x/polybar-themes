@@ -1,0 +1,164 @@
+/*
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Mail : adi1090x@gmail.com
+ * Github : @adi1090x
+ * Reddit : @adi1090x
+ *
+ */
+
+configuration {
+    font:                           "scientifica 8";
+    show-icons:                     false;
+	icon-theme: 					"Papirus";
+    display-drun: 					"Search";
+    drun-display-format:            "{name}";
+    threads:                        0;
+    scroll-method:                  0;
+    disable-history:                false;
+    fullscreen:                     false;
+	hide-scrollbar: 				true;
+	sidebar-mode: 					true;
+}
+
+@import "colors.rasi"
+
+window {
+    transparency:                   "real";
+    background-color:               @background;
+    text-color:                     @foreground;
+    border-radius:                  0px;
+    height:                         28px;
+    width:                          100%;
+    location:                       north;
+    anchor:                         north;
+    x-offset:                       0;
+    y-offset:                       0;
+	children: 						[ horibox ];
+}
+
+horibox {
+    background-color:               @background;
+    text-color:                     @foreground;
+	orientation: 					horizontal;
+	children: 						[ textbox-prompt-colon, prompt, entry, listview ];
+    margin:                         0px 0px 0px 0px;
+    padding:                        4px 4px 4px 4px;
+}
+
+prompt {
+    enabled: 						true;
+    margin:                         0px 0px 0px 0px;
+	padding: 						4px 4px 4px 4px;
+	background-color: 				@logo;
+	text-color: 					@background;
+}
+
+textbox-prompt-colon {
+	expand: 						false;
+	str: 							"";
+	background-color: 				@logo;
+	text-color: 					@background;
+    margin:                         0px -2px 0px 0px;
+    padding:                        4px 0px 4px 4px;
+	font:							"feather 8";
+}
+
+inputbar {
+	children: 						[ textbox-prompt-colon, prompt, entry ];
+    background-color:               @background;
+    text-color:                     @foreground;
+    expand:                         false;
+    border:                  		0px 0px 0px 0px;
+    border-radius:                  0px;
+    border-color:                  	@border;
+    margin:                         0px 0px 0px 0px;
+    padding:                        0px 0px 0px 0px;
+    position:                       center;
+}
+
+entry {
+    background-color:               @background;
+    text-color:                     @foreground;
+    placeholder-color:              @foreground;
+    expand:                         false;
+    width:							15%;
+    horizontal-align:               0;
+    placeholder:                    "Search";
+    blink:                          true;
+    padding:                        5px 5px 5px 5px;
+}
+
+case-indicator {
+    background-color:               @background;
+    text-color:                     @foreground;
+    spacing:                        0;
+}
+
+listview {
+    background-color:               @background;
+    columns:                        1;
+    lines:							15;
+    spacing:                        4px;
+    cycle:                          false;
+    dynamic:                        true;
+    layout:                         horizontal;
+}
+
+mainbox {
+    background-color:               @background;
+    children:                       [ inputbar, listview ];
+    spacing:                       	5px;
+    padding:                        5px 5px 5px 5px;
+}
+
+element {
+    background-color:               @background-alt;
+    text-color:                     @foreground;
+    orientation:                    horizontal;
+    border-radius:                  0px;
+    padding:                        5px 5px 4px 5px;
+}
+
+element-icon {
+    size:                           24px;
+    border:                         0px;
+}
+
+element-text {
+    expand:                         true;
+    horizontal-align:               0;
+    vertical-align:                 0;
+    margin:                         2px 0px 2px 2px;
+}
+
+element normal.urgent,
+element alternate.urgent {
+    background-color:               @urgent;
+    text-color:                     @foreground;
+    border-radius:                  0px;
+}
+
+element normal.active,
+element alternate.active {
+    background-color:               @background-alt;
+    text-color:                     @foreground;
+}
+
+element selected {
+    background-color:               @selected;
+    text-color:                     @background;
+    border:                  		0px;
+    border-radius:                  0px;
+    border-color:                  	@border;
+}
+
+element selected.urgent {
+    background-color:               @urgent;
+    text-color:                     @foreground;
+}
+
+element selected.active {
+    background-color:               @background-alt;
+    color:                          @foreground;
+}

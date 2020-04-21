@@ -483,6 +483,43 @@ Gray             |  Pink
 <a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>  
 </p>
 
+## // Polybar-12
+
+**How To Use** : Put all the files form *polybar-12* to  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM autostart file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [waffle](https://github.com/adi1090x/polybar-themes/tree/master/polybar-12/fonts) <br />
+- Text Fonts : [scientifica](https://github.com/adi1090x/polybar-themes/tree/master/polybar-11/fonts) <br />
+
+**Bar Preview**
+`Dark`
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_12.png) <br />
+
+`Light`
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_l_12.png) <br />
+
+**Switch Modes** Left ckick for `Light Mode` & Right click for `Dark Mode`, On *Heart* Module.
+
+**Module Preview**
+
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_m_12.png) <br />
+
+![logo](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/preview_ml_12.png) <br />
+
+**Desktop Preview**
+
+Gray             |  Pink
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_12.png) |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_12_alt.png)
+
+### Support This Project
+<p align="left">
+<a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
+<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
+<a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>  
+</p>
+
 ## FYI
 
 - You may need to edit these config files, in case you want to change the position, size etc.
