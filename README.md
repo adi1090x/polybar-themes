@@ -527,8 +527,7 @@ Apps             |  System    |  Mpd      |  Workspace
 
 
 Cpu             |  Memory  |  filesystem  
-
-:-------------:|:----------------:|:--------:|
+:-------------:|:----------------:|:--------:
 ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/5.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/6.png) | ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/7.png) |
 
 **Rofi**
