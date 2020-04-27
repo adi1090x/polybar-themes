@@ -508,6 +508,51 @@ Dark             |  Light
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_12.png) |  ![](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/desktop_12_alt.png)
 
+
+## // Polybar-13 || Polywidgets
+
+**How To Use** : Put all the files form *polybar-13* to  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM autostart file. <br />
+
+***Overview***
+- WM : Openbox
+- Icon Fonts : [Iosevka Nerd Fonts](https://github.com/adi1090x/polybar-themes/tree/master/polybar-13/fonts) <br />
+- Text Fonts : [Iosevka Nerd Fonts](https://github.com/adi1090x/polybar-themes/tree/master/polybar-13/fonts) <br />
+- Rofi: [Feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-13/fonts) <br />
+
+**Preview**
+Apps             |  System
+:-------------------------:|:-------------------------:
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/1.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/2.png)
+
+Mpd             |  Workspace
+:-------------------------:|:-------------------------:
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/3.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/4.png)
+
+Cpu             |  Memory
+:-------------------------:|:-------------------------:
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/5.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/6.png)
+
+|filesystem|  
+|:--------:|
+|![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/7.png) |
+
+**Rofi**
+
+Apps             |  System
+:-------------------------:|:-------------------------:
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/1.gif) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/2.gif)
+
+**Styling**
++ Edit `launch.sh` and uncomment the desired Widgets (multiple can be use)
++ Replace the `colors.ini` & `colors.rasi` file to switch between light and dark mode.
++ Size (height, width), postion(X, Y, top, bottom), colors... change according to your need.
+
+**Desktop Preview**
+
+Light             |  Dark
+:-------------------------:|:-------------------------:
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/8.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/9.png)
+
 ### Support This Project
 <p align="left">
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
