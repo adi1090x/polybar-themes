@@ -50,6 +50,7 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 - [Polybar 10](https://github.com/adi1090x/polybar-themes#-polybar-10--dedistro-panels)
 - [Polybar 11](https://github.com/adi1090x/polybar-themes#-polybar-11)
 - [Polybar 12](https://github.com/adi1090x/polybar-themes#-polybar-12)
+- [Polybar 13](https://github.com/adi1090x/polybar-themes#-polybar-13--polywidgets)
 
 </details>
 
@@ -520,21 +521,15 @@ Dark             |  Light
 - Rofi: [Feather](https://github.com/adi1090x/polybar-themes/tree/master/polybar-13/fonts) <br />
 
 **Preview**
-Apps             |  System
-:-------------------------:|:-------------------------:
-![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/1.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/2.png)
+Apps             |  System    |  Mpd      |  Workspace
+:---------------:|:----------:|:---------:|:----------:
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/1.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/2.png) | ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/3.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/4.png)
 
-Mpd             |  Workspace
-:-------------------------:|:-------------------------:
-![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/3.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/4.png)
 
-Cpu             |  Memory
-:-------------------------:|:-------------------------:
-![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/5.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/6.png)
+Cpu             |  Memory  |  filesystem  
 
-|filesystem|  
-|:--------:|
-|![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/7.png) |
+:-------------:|:----------------:|:--------:|
+![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/5.png) |  ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/6.png) | ![img](https://raw.githubusercontent.com/adi1090x/files/master/polybar-themes/previews/pw/7.png) |
 
 **Rofi**
 
