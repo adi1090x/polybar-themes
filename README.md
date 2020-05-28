@@ -512,7 +512,7 @@ Dark             |  Light
 
 ## // Polybar-13 || Polywidgets
 
-**How To Use** : Put all the files form *polybar-13* to  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM autostart file. <br />
+**How To Use** : Put all the files from *polybar-13* to  ***/home/$USER/.config/polybar/***  and execute  ***launch.sh***  to start the polybar or add this script to your WM autostart file. <br />
 
 ***Overview***
 - WM : Openbox
