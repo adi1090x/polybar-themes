@@ -80,6 +80,9 @@ cp -r fonts/* ~/.local/share/fonts
 # reload font cache
 fc-cache -v
 
+# delete current font config (to be able to display bitmap fonts)
+sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf
+
 # copy everything from polybar-1 to polybar config dir (backup your config first if you have)
 cp -r * ~/.config/polybar
 
