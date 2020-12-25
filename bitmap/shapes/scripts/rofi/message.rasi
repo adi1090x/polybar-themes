@@ -1,0 +1,24 @@
+/* Confirm Dialog */
+
+@import "colors.rasi"
+
+* {
+    background-color:       @bg;
+    text-color:             @fg;
+	font:				 	"Terminus 9";
+}
+
+window {
+    width:      			320px;
+    padding:    			25px;
+    border:					0px;
+    border-radius:          12px;
+    border-color:           @bg1;
+    location:               center;
+    y-offset:               -2em;
+}
+
+entry {
+    expand: 				true;
+    text-color:				@bg2;
+}

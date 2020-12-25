@@ -1,0 +1,25 @@
+/* Confirm Dialog */
+
+@import "colors.rasi"
+
+* {
+    background-color:       @bg;
+    text-color:             @fg;
+	font:				 	"Iosevka Nerd Font 10";
+}
+
+window {
+    width:      			310px;
+    padding:    			20px;
+    border:					0px 0px 1px 0px;
+    border-radius:          8px;
+    border-color:           @bo;
+    location:               center;
+    y-offset:               -2em;
+}
+
+entry {
+    expand: 				true;
+    text-color:				@fg;
+}
+
