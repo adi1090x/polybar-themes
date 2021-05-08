@@ -20,7 +20,8 @@ logout=" Logout"
 # Confirmation
 confirm_exit() {
 	rofi -dmenu\
-		-i\
+		-no-config\
+        -i\
 		-no-fixed-num-lines\
 		-p "Are You Sure? : "\
 		-theme $dir/confirm.rasi
@@ -28,7 +29,7 @@ confirm_exit() {
 
 # Message
 msg() {
-	rofi -theme "$dir/message.rasi" -e "Available Options  -  yes / y / no / n"
+	rofi -no-config -theme "$dir/message.rasi" -e "Available Options  -  yes / y / no / n"
 }
 
 # Variable passed to rofi
