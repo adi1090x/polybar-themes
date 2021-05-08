@@ -52,7 +52,7 @@ else
 	exit 1
 fi
 
-rofi_command="rofi -theme $DIR/$theme/powermenu.rasi"
+rofi_command="rofi -no-config -theme $DIR/powermenu.rasi"
 
 # Options
 shutdown=" Shutdown"
