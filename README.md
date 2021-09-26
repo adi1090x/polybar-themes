@@ -84,20 +84,15 @@ Here's a list of all fonts used by these themes.
 
 Follow the steps below to install these themes on your system.
 
-- First, Clone this repository -
+- First, Clone this repository and enter the project directory -
 ```
 $ git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
-```
-
-- Change to cloned directory and make setup.sh executable -
-```
 $ cd polybar-themes
-$ chmod +x setup.sh
 ```
 
 - Run `setup.sh` and select a style -
 ```
-$ ./setup.sh
+$ bash setup.sh
 
 [*] Installing Polybar Themes...
 
