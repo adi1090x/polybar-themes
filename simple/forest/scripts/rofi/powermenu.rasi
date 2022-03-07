@@ -105,6 +105,7 @@ element {
 element-icon {
     size:                           24px;
     border:                         0px;
+    background-color:               transparent;
 }
 
 element-text {
@@ -112,12 +113,18 @@ element-text {
     horizontal-align:               0;
     vertical-align:                 0.5;
     margin:                         0px 2.5px 0px 2.5px;
+    background-color:               transparent;
+    color: @fg;
 }
 
-element selected {
+element.selected {
     background-color:               @se;
     text-color:                     @bg;
 	border:							0px 0px 0px 0px;
     border-radius:                  0px;
     border-color:                  	@ac;
+}
+
+element-text.selected {
+    text-color:                     @bg;
 }
