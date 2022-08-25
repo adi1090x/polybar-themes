@@ -8,7 +8,7 @@
 dir="~/.config/polybar/docky/scripts/rofi"
 uptime=$(uptime -p | sed -e 's/up //g')
 
-rofi_command="rofi -theme $dir/powermenu.rasi"
+rofi_command="rofi -no-config -theme $dir/powermenu.rasi"
 
 # Options
 shutdown=" Shutdown"
@@ -20,6 +20,7 @@ logout=" Logout"
 # Confirmation
 confirm_exit() {
 	rofi -dmenu\
+        -no-config\
 		-i\
 		-no-fixed-num-lines\
 		-p "Are You Sure? : "\
@@ -28,7 +29,7 @@ confirm_exit() {
 
 # Message
 msg() {
-	rofi -theme "$dir/message.rasi" -e "Available Options  -  yes / y / no / n"
+	rofi -no-config -theme "$dir/message.rasi" -e "Available Options  -  yes / y / no / n"
 }
 
 # Variable passed to rofi
