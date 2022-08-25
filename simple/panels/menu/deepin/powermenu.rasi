@@ -103,11 +103,15 @@ element {
 }
 
 element-icon {
+    background-color:               transparent;
+    text-color:               		inherit;
     size:                           24px;
     border:                         0px;
 }
 
 element-text {
+    background-color:               transparent;
+    text-color:               		inherit;
     expand:                         true;
     horizontal-align:               0;
     vertical-align:                 0.5;

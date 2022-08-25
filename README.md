@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/adi1090x/polybar-themes?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/adi1090x/polybar-themes?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/adi1090x/polybar-themes?color=violet&style=for-the-badge">
@@ -161,6 +160,20 @@ You can add these lines, before the launch command in your WM startup file if yo
 bash ~/.config/polybar/material/scripts/pywal.sh /path/to/wallpaper_dir
 bash ~/.config/polybar/launch.sh --material
 ```
+
+---
+
+<p align="center">
+  <a href="https://github.com/sponsors/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/rofi/master/previews/sponsor.png" width="256px"></a>
+</p>
+
+<p align="center">
+  <b>Special thanks to all the Sponsors</b>. Maintenance of this project is made possible by you guys. If you'd like to sponsor this project and have your avatar appear below, <a href="https://github.com/sponsors/adi1090x">click here</a> 💖
+</p>
+
+<p align="center">
+  <!-- sponsors --></a><!-- sponsors -->
+</p>
 
 ---
 
