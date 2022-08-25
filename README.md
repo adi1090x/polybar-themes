@@ -26,11 +26,11 @@
   <a href="https://github.com/adi1090x/polybar-themes#pwidgets" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/pwidgets-cyan?style=for-the-badge"></a>
 </p>
 
-<p align="center">A huge collection of <a href="https://github.com/jaagr/polybar">polybar</a> themes with different styles, colors and variants.</p>
+<p align="center">A huge collection of <a href="https://github.com/polybar/polybar">polybar</a> themes with different styles, colors and variants.</p>
 
 ##
 
-<a href="https://github.com/jaagr/polybar"><b>Polybar</b></a> aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of having a black belt in shell scripting.
+<a href="https://github.com/polybar/polybar"><b>Polybar</b></a> aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of having a black belt in shell scripting.
 
 The main purpose of Polybar is to help users create awesome status bars. It has built-in functionality to display information about the most commonly used services. Some of the services included so far... 
 
@@ -50,7 +50,7 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 - Command output tailing
 - User-defined menu tree
 - Inter-process messaging
-- And <a href="https://github.com/jaagr/polybar">more</a>... 
+- And <a href="https://github.com/polybar/polybar">more</a>... 
 
 ### Dependencies
 
