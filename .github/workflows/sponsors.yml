@@ -1,10 +1,11 @@
 name: Generate Sponsors README
+
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: 00 15 * * 0-6
+
 jobs:
-  deploy:
+  cron:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
