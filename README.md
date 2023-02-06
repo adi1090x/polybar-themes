@@ -172,7 +172,7 @@ bash ~/.config/polybar/launch.sh --material
 </p>
 
 <p align="center">
-  <!-- sponsors --><a href="https://github.com/weedy789"><img src="https://github.com/weedy789.png" width="60px" alt="Brandon Wiedman" /></a><!-- sponsors -->
+  <!-- sponsors --><!-- sponsors -->
 </p>
 
 ---
