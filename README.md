@@ -172,7 +172,7 @@ bash ~/.config/polybar/launch.sh --material
 </p>
 
 <p align="center">
-  <!-- sponsors --><a href="https://github.com/Adityasingh6969"><img src="https://github.com/Adityasingh6969.png" width="60px" alt="Aditya Singh " /></a><a href="https://github.com/Cir-0"><img src="https://github.com/Cir-0.png" width="60px" alt="David N" /></a><a href="https://github.com/abhas"><img src="https://github.com/abhas.png" width="60px" alt="Abhas Abhinav" /></a><!-- sponsors -->
+  <!-- sponsors --><a href="https://github.com/Cir-0"><img src="https://github.com/Cir-0.png" width="60px" alt="David N" /></a><a href="https://github.com/abhas"><img src="https://github.com/abhas.png" width="60px" alt="Abhas Abhinav" /></a><!-- sponsors -->
 </p>
 
 ---
