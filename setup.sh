@@ -35,29 +35,36 @@ install_themes() {
 # Main
 main() {
 	clear
-	cat <<- EOF
-		[*] Installing Polybar Themes...
-		
-		[*] Choose Style -
-		[1] Simple
-		[2] Bitmap
-	
-	EOF
 
-	read -p "[?] Select Option : "
+	if [[ -z $STYLE ]]; then
+		cat <<- EOF
+			[*] Installing Polybar Themes...
 
-	if [[ $REPLY == "1" ]]; then
-		STYLE='simple'
-		install_fonts
-		install_themes
-	elif [[ $REPLY == "2" ]]; then
-		STYLE='bitmap'
-		install_fonts
-		install_themes
-	else
-		echo -e "\n[!] Invalid Option, Exiting...\n"
+			[*] Choose Style -
+			[1] Simple
+			[2] Bitmap
+
+		EOF
+
+		read -p "[?] Select Option : "
+
+		if [[ $REPLY == "1" ]]; then
+			STYLE='simple'
+		elif [[ $REPLY == "2" ]]; then
+			STYLE='bitmap'
+		else
+			echo -e "\n[!] Invalid Option, Exiting...\n"
+			exit 1
+		fi
+	fi
+
+	if [[ $STYLE != "simple" && $STYLE != "bitmap" ]]; then
+		echo -e "\n[!] Invalid Style, Exiting...\n"
 		exit 1
 	fi
+
+	install_fonts
+	install_themes
 }
 
 main
