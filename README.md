@@ -56,7 +56,7 @@ The main purpose of Polybar is to help users create awesome status bars. It has 
 
 Install following programs on your system before you use these themes.
 
-- **`Polybar`** : Ofcourse, the bar itself
+- **`Polybar`** : Of course, the bar itself
 - **`Rofi`** : For App launcher, network, power and style menus
 - **`pywal`** : For pywal support
 - **`calc`** : For random colors support
