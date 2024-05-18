@@ -172,7 +172,7 @@ bash ~/.config/polybar/launch.sh --material
 </p>
 
 <p align="center">
-  <!-- sponsors --><a href="https://github.com/nuxxor"><img src="https://github.com/nuxxor.png" width="60px" alt="" /></a><!-- sponsors -->
+  <!-- sponsors --><!-- sponsors -->
 </p>
 
 ---
