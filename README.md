@@ -12,18 +12,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/adi1090x/polybar-themes#material" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/material-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#shades" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/shades-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#hack" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/hack-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#docky" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/docky-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#cuts" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/cuts-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#shapes" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/shapes-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#grayblocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/grayblocks-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#blocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/blocks-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#colorblocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/colorblocks-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#forest" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/forest-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#panels" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/panels-cyan?style=for-the-badge"></a>
-  <a href="https://github.com/adi1090x/polybar-themes#pwidgets" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/pwidgets-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#material" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/material-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-theme/blob/master/README.md#shades" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/shades-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#hack" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/hack-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#docky" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/docky-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#cuts" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/cuts-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#shapes" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/shapes-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#grayblocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/grayblocks-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#blocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/blocks-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#colorblocks" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/colorblocks-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#forest" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/forest-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#panels" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/panels-cyan?style=for-the-badge"></a>
+  <a href="https://github.com/adi1090x/polybar-themes/blob/master/README.md#pwidgets" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/pwidgets-cyan?style=for-the-badge"></a>
 </p>
 
 <p align="center">A huge collection of <a href="https://github.com/polybar/polybar">polybar</a> themes with different styles, colors and variants.</p>
