@@ -60,7 +60,7 @@ Install following programs on your system before you use these themes.
 - **`Rofi`** : For App launcher, network, power and style menus
 - **`pywal`** : For pywal support
 - **`calc`** : For random colors support
-- **`networkmanager_dmenu`** : For network modules
+- **`networkmanager-dmenu`** : For network modules
 
 ### Fonts
 
