@@ -84,20 +84,21 @@ Here's a list of all fonts used by these themes.
 Follow the steps below to install these themes on your system.
 
 - First, Clone this repository -
-```
-$ git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+```bash
+git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
 ```
 
 - Change to cloned directory and make setup.sh executable -
-```
-$ cd polybar-themes
-$ chmod +x setup.sh
+```bash
+cd polybar-themes
+chmod +x setup.sh
 ```
 
 - Run `setup.sh` and select a style -
+```bash
+./setup.sh
 ```
-$ ./setup.sh
-
+```bash
 [*] Installing Polybar Themes...
 
 [*] Choose Style -
@@ -120,9 +121,10 @@ $ ./setup.sh
 To launch the bar with the selected theme, Just...
 
 - Open the terminal and enter the following command - 
+```bash
+bash ~/.config/polybar/launch.sh
 ```
-$ bash ~/.config/polybar/launch.sh
-
+```
 Usage : launch.sh --theme
 
 Available Themes :
@@ -132,12 +134,12 @@ Available Themes :
 ```
 
 - Now, select your theme and launch the bar - 
-```
-$ bash ~/.config/polybar/launch.sh --hack
+```bash
+bash ~/.config/polybar/launch.sh --hack
 ```
 
 - You can add the same command to your WM autostart file to launch the bar on login. For example, to launch the bar at startup on openbox, add following lines in **`$HOME/.config/openbox/autostart`** -
-```
+```bash
 ## Launch Polybar
 bash ~/.config/polybar/launch.sh --cuts
 ```
@@ -145,17 +147,17 @@ bash ~/.config/polybar/launch.sh --cuts
 ### Use the scripts
 
 Almost every theme has pywal and random color support added to them. If you want to use the bar with pywal, just execute the `pywal.sh` script with the path of the wallpaper or wallpapers directory. eg - If you're using *material* theme...
-```
-$ bash ~/.config/polybar/material/scripts/pywal.sh /path/to/wallpaper
+```bash
+bash ~/.config/polybar/material/scripts/pywal.sh /path/to/wallpaper
 ```
 
 If you want to use random colors for your bar, just execute `random.sh` script - 
-```
-$ bash ~/.config/polybar/material/scripts/random.sh
+```bash
+bash ~/.config/polybar/material/scripts/random.sh
 ```
 
 You can add these lines, before the launch command in your WM startup file if you want to use pywal or random color for your bar every time you login. eg - in Openbox's `autostart` file...
-```
+```bash
 ## Launch Polybar with random wallpaper
 bash ~/.config/polybar/material/scripts/pywal.sh /path/to/wallpaper_dir
 bash ~/.config/polybar/launch.sh --material
