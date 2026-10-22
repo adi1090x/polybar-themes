@@ -97,7 +97,7 @@ if [[ -z $CHECKUPDATES_DB ]]; then
 	CHECKUPDATES_DB="${TMPDIR:-/tmp}/checkup-db-${USER}/"
 fi
 
-trap 'rm -f $CHECKUPDATES_DB/db.lck' INT TERM EXIT
+trap 'rm -f -- "$CHECKUPDATES_DB/db.lck"' INT TERM EXIT
 
 DBPath="$(pacman-conf DBPath)"
 if [[ -z "$DBPath" ]] || [[ ! -d "$DBPath" ]]; then
